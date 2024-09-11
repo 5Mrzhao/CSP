@@ -1,0 +1,1 @@
+g++ *.hpp *.cpp -O3 -o main -w
